@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RegistrationTest" time="9.761" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="IgredientsTabTest" time="5.941" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -60,6 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="incorrectPasswordErrorTest" classname="RegistrationTest" time="8.421"/>
-  <testcase name="registrationTest" classname="RegistrationTest" time="1.185"/>
+  <testcase name="fillingTabTest" classname="IgredientsTabTest" time="4.613"/>
+  <testcase name="sauceTabTest" classname="IgredientsTabTest" time="0.656"/>
+  <testcase name="bunsTabTest" classname="IgredientsTabTest" time="0.669"/>
 </testsuite>

@@ -42,7 +42,7 @@ public class MainPageSelenide {
     SelenideElement bunsTab;
 
     //Локатор заголовка Булки
-    @FindBy(how = How.XPATH, using = ".//*[@class='text text_type_main-medium mb-6 mt-10' and text()='Булки']")
+    @FindBy(how = How.XPATH, using = ".//*[@class='tab_tab__1SPyG tab_tab_type_current__2BEPc pt-4 pr-10 pb-4 pl-10 noselect']")
     SelenideElement bunsText;
 
     public MainPageSelenide clickBunsTab(){
@@ -61,7 +61,7 @@ public class MainPageSelenide {
     SelenideElement sauceTab;
 
     //Локатор заголовка Соусы
-    @FindBy(how = How.XPATH, using = ".//*[@class='text text_type_main-medium mb-6 mt-10' and text()='Соусы']")
+    @FindBy(how = How.XPATH, using = ".//*[@class='tab_tab__1SPyG tab_tab_type_current__2BEPc pt-4 pr-10 pb-4 pl-10 noselect']")
     SelenideElement sauceText;
 
     public MainPageSelenide clickSauceTab(){
@@ -80,7 +80,7 @@ public class MainPageSelenide {
     SelenideElement fillingTab;
 
     //Локатор заголовка Начинки
-    @FindBy(how = How.XPATH, using = ".//*[@class='text text_type_main-medium mb-6 mt-10' and text()='Начинки']")
+    @FindBy(how = How.XPATH, using = ".//*[@class='tab_tab__1SPyG tab_tab_type_current__2BEPc pt-4 pr-10 pb-4 pl-10 noselect']")
     SelenideElement fillingText;
 
     public MainPageSelenide clickFillingTab(){

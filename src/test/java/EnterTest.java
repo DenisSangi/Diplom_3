@@ -1,22 +1,9 @@
-import com.codeborne.selenide.Configuration;
 import org.junit.After;
-import org.junit.BeforeClass;
 import org.junit.Test;
 
-import static com.codeborne.selenide.Selenide.open;
-import static com.codeborne.selenide.Selenide.page;
-import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 import static org.junit.Assert.assertTrue;
 
-public class EnterTest {
-
-    //Page objects
-    MainPageSelenide mainPage = open("https://stellarburgers.nomoreparties.site/", MainPageSelenide.class);
-    LoginPageSelenide loginPage = page(LoginPageSelenide.class);
-    RegisterPageSelenide registerPage = page(RegisterPageSelenide.class);
-    RestorePasswordPageSelenide restorePassword = page(RestorePasswordPageSelenide.class);
-    AccountPageSelenide accountPage = page(AccountPageSelenide.class);
-
+public class EnterTest extends BaseData {
     /*Раскомменитровать для тестирования в Safari
     @BeforeClass
     public static void setProperties() {
@@ -25,9 +12,7 @@ public class EnterTest {
 
     @After
     public void tearDown() {
-        mainPage.clickAccountLinkMainPage();
-        accountPage.clickExitButton();
-        getWebDriver().quit();
+        closeDriver();
     }
 
     //проверка входа через кнопку Войти в аккаунт
