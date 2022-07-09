@@ -1,0 +1,131 @@
+[ {
+  "uid" : "215a038397a3aa91",
+  "name" : "enterViaRestorePasswordTest",
+  "time" : {
+    "start" : 1657381062918,
+    "stop" : 1657381065230,
+    "duration" : 2312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c71731ef93032586",
+  "name" : "fromAccountToConstructorViaConstructorLinkTest",
+  "time" : {
+    "start" : 1657381101079,
+    "stop" : 1657381110292,
+    "duration" : 9213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7ad00b64d93d97a",
+  "name" : "enterAccountLinkTest",
+  "time" : {
+    "start" : 1657381076941,
+    "stop" : 1657381082969,
+    "duration" : 6028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35674010ba3061a3",
+  "name" : "enterAccountViaRegistrationTest",
+  "time" : {
+    "start" : 1657381070963,
+    "stop" : 1657381076936,
+    "duration" : 5973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb05da83823e3175",
+  "name" : "incorrectPasswordErrorTest",
+  "time" : {
+    "start" : 1657381053270,
+    "stop" : 1657381061643,
+    "duration" : 8373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76d74bbb42e92898",
+  "name" : "enterAccountTest",
+  "time" : {
+    "start" : 1657381082976,
+    "stop" : 1657381089107,
+    "duration" : 6131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b91f7d66dadad6c",
+  "name" : "fillingTabTest",
+  "time" : {
+    "start" : 1657381110298,
+    "stop" : 1657381114911,
+    "duration" : 4613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec1c2dc1038af4b4",
+  "name" : "fromAccountToConstructorViaLogoLinkTest",
+  "time" : {
+    "start" : 1657381089111,
+    "stop" : 1657381095531,
+    "duration" : 6420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ba202636bfb0fa4",
+  "name" : "logoutFromAccountTest",
+  "time" : {
+    "start" : 1657381095536,
+    "stop" : 1657381101072,
+    "duration" : 5536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0697a4b3e50ef7b",
+  "name" : "registrationTest",
+  "time" : {
+    "start" : 1657381061731,
+    "stop" : 1657381062912,
+    "duration" : 1181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd86a2054840532f",
+  "name" : "enterAccountButtonTest",
+  "time" : {
+    "start" : 1657381065233,
+    "stop" : 1657381070958,
+    "duration" : 5725
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "808a10f58ecb1c43",
+  "name" : "bunsTabTest",
+  "time" : {
+    "start" : 1657381115571,
+    "stop" : 1657381116237,
+    "duration" : 666
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad38acef4df51a2c",
+  "name" : "sauceTabTest",
+  "time" : {
+    "start" : 1657381114912,
+    "stop" : 1657381115568,
+    "duration" : 656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

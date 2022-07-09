@@ -1,0 +1,56 @@
+{
+  "uid" : "ec1c2dc1038af4b4",
+  "name" : "fromAccountToConstructorViaLogoLinkTest",
+  "fullName" : "RedirectTest.fromAccountToConstructorViaLogoLinkTest",
+  "historyId" : "3008d2173bd395499c89a55a4ac063db",
+  "time" : {
+    "start" : 1657381089111,
+    "stop" : 1657381095531,
+    "duration" : 6420
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "RedirectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fromAccountToConstructorViaLogoLinkTest"
+  }, {
+    "name" : "suite",
+    "value" : "RedirectTest"
+  }, {
+    "name" : "host",
+    "value" : "DenisSangiMac"
+  }, {
+    "name" : "thread",
+    "value" : "65570@DenisSangiMac.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec1c2dc1038af4b4.json",
+  "parameterValues" : [ ]
+}

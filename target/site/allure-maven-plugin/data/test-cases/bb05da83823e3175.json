@@ -1,0 +1,56 @@
+{
+  "uid" : "bb05da83823e3175",
+  "name" : "incorrectPasswordErrorTest",
+  "fullName" : "RegistrationTest.incorrectPasswordErrorTest",
+  "historyId" : "f9ff137f2efb4edd96e84a42dc38cf",
+  "time" : {
+    "start" : 1657381053270,
+    "stop" : 1657381061643,
+    "duration" : 8373
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "incorrectPasswordErrorTest"
+  }, {
+    "name" : "suite",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "DenisSangiMac"
+  }, {
+    "name" : "thread",
+    "value" : "65570@DenisSangiMac.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb05da83823e3175.json",
+  "parameterValues" : [ ]
+}

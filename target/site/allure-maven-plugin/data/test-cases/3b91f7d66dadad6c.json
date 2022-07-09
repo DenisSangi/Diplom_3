@@ -1,0 +1,56 @@
+{
+  "uid" : "3b91f7d66dadad6c",
+  "name" : "fillingTabTest",
+  "fullName" : "IgredientsTabTest.fillingTabTest",
+  "historyId" : "5101270b0b3669baaf39593d660420a6",
+  "time" : {
+    "start" : 1657381110298,
+    "stop" : 1657381114911,
+    "duration" : 4613
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "IgredientsTabTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillingTabTest"
+  }, {
+    "name" : "suite",
+    "value" : "IgredientsTabTest"
+  }, {
+    "name" : "host",
+    "value" : "DenisSangiMac"
+  }, {
+    "name" : "thread",
+    "value" : "65570@DenisSangiMac.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b91f7d66dadad6c.json",
+  "parameterValues" : [ ]
+}
