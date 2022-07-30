@@ -1,0 +1,56 @@
+{
+  "uid" : "215a038397a3aa91",
+  "name" : "enterViaRestorePasswordTest",
+  "fullName" : "EnterTest.enterViaRestorePasswordTest",
+  "historyId" : "ea57b4b9e7702d0f3f7b490e6a8470b",
+  "time" : {
+    "start" : 1657381062918,
+    "stop" : 1657381065230,
+    "duration" : 2312
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "EnterTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "enterViaRestorePasswordTest"
+  }, {
+    "name" : "suite",
+    "value" : "EnterTest"
+  }, {
+    "name" : "host",
+    "value" : "DenisSangiMac"
+  }, {
+    "name" : "thread",
+    "value" : "65570@DenisSangiMac.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "215a038397a3aa91.json",
+  "parameterValues" : [ ]
+}
